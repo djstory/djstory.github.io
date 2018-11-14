@@ -1,21 +1,18 @@
-<p align="center">
-  <img src="./assets/paper-cover-photo.png">
-  <p align="center">
-  A minimalistic Jekyll Theme
-  <br>
-  <br>
-  <a href="https://travis-ci.org/mkchoi212/paper-jekyll-theme"><img src="https://travis-ci.org/mkchoi212/paper-jekyll-theme.svg?branch=master"></a>
-  <a href="https://raw.githubusercontent.com/mkchoi212/paper-jekyll-theme/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
-  </p>
-</p>
-<br>
+---
+layout: post
+title: "Mapping Presentation"
+description: "Presenting my Barnum project at IU"
+date: 2018-03-06
+tags: digital gis
+comments: true
+---
 
 Paper is a minimal Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. The styling is purposely minimalistic so that you can add your own flare to the website.
 
-Live demo of the theme can be seen [here](https://deadbeef.me/paper-jekyll-theme/). I'm also currently using this theme on my [personal blog](https://www.deadbeef.me).
+I'm currently using this theme on my [personal blog](https://www.deadbeef.me).
 
 ## Features
-- Compatible with Jekyll 3.x and **Github Pages**
+- Compatible with Jekyll 3.x and Github Pages
 - Live local reloading for faster development
 - **Responsive layout** built-in
 - Supports Jekyll's built-in Sass/SCSS preprocessor
@@ -60,4 +57,3 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-

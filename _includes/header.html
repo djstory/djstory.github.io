@@ -1,0 +1,18 @@
+<header {% if page.title == 'Home' %} class="c-page__header__home" {% else %} class="c-page__header" {% endif %}>
+    <h1><code>{{ site.title}}</code></h1>
+
+        <h1>{{ site.description }}</h1>
+    <p>
+        <a href="{{ "/" | prepend: site.baseurl }}" {% if page.title == 'Home' %} style="color:white;background-color:#313131;" {% endif %}>Home</a>
+        <span class="u-separate"></span>
+        <a href="{{ "/about/" | prepend: site.baseurl }}" {% if page.title == 'About' %} style="color:white;background-color:#313131;" {% endif %}>About</a>
+        <span class="u-separate"></span>
+        <a href="{{ "/projects/" | prepend:site.baseurl }}" {% if page.title == 'Projects' or page.title == 'Dissertation' or page.title == 'Consumer City' or page.title == "The Billposter's Dream" or page.title == 'Mapping Resources' %} style="color:white;background-color:#313131;" {% endif %}>Projects</a>
+        <span class="u-separate"></span>
+        <a href="{{ "/assets/CV-DStory-2018.pdf" | prepend: site.baseurl }}" {% if page.title == 'CV' %} style="color:white;background-color:#313131;" {% endif %}>CV</a>
+        <span class="u-separate"></span>
+        <a href="{{ "/blog/" | prepend: site.baseurl }}" {% if page.title == 'Blog' %} style="color:white;background-color:#313131;" {% endif %}>Blog</a>
+        <span class="u-separate"></span>
+        <a href="{{ "/contact/" | prepend: site.baseurl }}" {% if page.title == 'Contact' %} style="color:white;background-color:#313131;" {% endif %}>Contact</a>
+    </p>
+</header>

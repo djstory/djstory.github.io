@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel J. Story</title>
+    <description>Historian, writer, digital cartographer.
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 13 Nov 2018 19:07:04 -0500</pubDate>
+    <lastBuildDate>Tue, 13 Nov 2018 19:07:04 -0500</lastBuildDate>
+    <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Mapping Presentation</title>
+        <description>&lt;p&gt;Tomorrow I’ll be presenting my Barnum mapping project as part of the Digital Library Brown Bag Series at Indiana University. You can read about the session &lt;a href=&quot;https://libraries.indiana.edu/mapping-barnum-bailey-and-cody-american-entertainment-global-nineteenth-century&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. And you can see my interactive map &lt;a href=&quot;http://www.danieljstory.com/barnum&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;More to come.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 06 Mar 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2018/03/mapping-presentation/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/03/mapping-presentation/</guid>
+        
+        <category>digital</category>
+        
+        <category>gis</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
