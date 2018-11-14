@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 ### Dissertation
-- [Between Ourselves and the World](/dissertation/) (*in progress*)
+- [Ready to Believe: How American Business Came to Faith in Advertising](/dissertation/) (*in progress*)
 
 ### Articles
 - [The Billposter's Dream](/billposters/) (*under review*)

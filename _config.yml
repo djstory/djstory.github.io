@@ -1,12 +1,12 @@
 # Site settings
 title: "Daniel J. Story"
 description: > 
-  Historian, writer, digital cartographer.
+  Historian, writer, digital humanist.
 
 author: Daniel J. Story
-email: daniel@danieljstory.com
-twitter_username:
-github_username:
+email: djstory@indiana.edu
+twitter_username: danieljstory
+github_username: djstory
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
