@@ -5,6 +5,5 @@ permalink: /barnum/
 ---
 Get in touch at [djstory@indiana.edu](mailto:djstory@indiana.edu).
 
-More text here.
-
-<div></div>
+<div id="map"></div>
+<script src='{{ "/assets/js/my_map.js" | prepend: site.baseurl }}'></script>
