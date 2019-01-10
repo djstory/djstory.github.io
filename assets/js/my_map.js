@@ -22,4 +22,4 @@ map.on('load', function() {
       'circle-color': 'rgb(124, 218, 255)'
     }
     });
-}).
+});
