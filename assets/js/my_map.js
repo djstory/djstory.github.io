@@ -151,4 +151,4 @@ for (var i = 0; i < toggleableLayerIds.length; i++) {
     var layers = document.getElementById('menu');
     layers.appendChild(link);
 }
-map.addControl(new mapboxgl.NavigationControl());
+//map.addControl(new mapboxgl.NavigationControl());
