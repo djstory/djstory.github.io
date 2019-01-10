@@ -4,7 +4,7 @@ var map = new mapboxgl.Map({
     container: 'map', // container id
     style: 'mapbox://styles/danieljstory/cjqpqu7160add2qn4w3ahyxks', // stylesheet location
     center: [-33.547704,27.789823], // starting position [lng, lat]
-    zoom: 1 // starting zoom
+    zoom: 0.3 // starting zoom
 });
 
 map.on('load', function() {
