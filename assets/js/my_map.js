@@ -74,10 +74,10 @@ map.on('load', function() {
             .addTo(map);
     });
 
-   /* map.on('mouseleave', 'Barnum and Bailey', function() {
+   map.on('mouseleave', 'Barnum and Bailey', function() {
         map.getCanvas().style.cursor = '';
         popup.remove();
-    });*/
+    });
 
 
     // Popup for Buffal Bill
