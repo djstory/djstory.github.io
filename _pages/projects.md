@@ -12,6 +12,6 @@ permalink: /projects/
 - [Consumer City](/consumer-city/) (*published 2016*)
 
 ### Mapping Projects
-- <a href="http://www.danieljstory.com/barnum" target="_blank">Mapping Barnum, Bailey, and Cody</a> (*in progress*)
+- [Mapping Barnum, Bailey, and Cody](/barnum/) (*in progress*)
 - [Daniel's Guide to Mapping Resources](/mapping/)
 
