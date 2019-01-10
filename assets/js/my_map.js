@@ -124,7 +124,7 @@ map.on('load', function() {
 });
 
 // Add Layer Toggle
-var toggleableLayerIds = [ 'Cooper Bailey', 'Buffalo Bill', 'Barnum and Bailey' ];
+/*var toggleableLayerIds = [ 'Cooper Bailey', 'Buffalo Bill', 'Barnum and Bailey' ];
 
 for (var i = 0; i < toggleableLayerIds.length; i++) {
     var id = toggleableLayerIds[i];
@@ -153,4 +153,4 @@ for (var i = 0; i < toggleableLayerIds.length; i++) {
     var layers = document.getElementById('menu');
     layers.appendChild(link);
 }
-map.addControl(new mapboxgl.NavigationControl());
+map.addControl(new mapboxgl.NavigationControl());*/
