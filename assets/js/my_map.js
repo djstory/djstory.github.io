@@ -3,7 +3,7 @@ mapboxgl.accessToken = 'pk.eyJ1IjoiZGFuaWVsanN0b3J5IiwiYSI6ImNpbTZnbzNqbDAyNzd0e
 var map = new mapboxgl.Map({
     container: 'map', // container id
     style: 'mapbox://styles/danieljstory/cjqpqu7160add2qn4w3ahyxks', // stylesheet location
-    center: [-33.547704,27.789823], // starting position [lng, lat]
+    center: [-6.527360,37.266810], // starting position [lng, lat]
     zoom: 0.3 // starting zoom
 });
 
