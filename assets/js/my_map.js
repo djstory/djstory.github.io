@@ -3,7 +3,7 @@ mapboxgl.accessToken = 'pk.eyJ1IjoiZGFuaWVsanN0b3J5IiwiYSI6ImNpbTZnbzNqbDAyNzd0e
 var map = new mapboxgl.Map({
     container: 'map', // container id
     style: 'mapbox://styles/danieljstory/cjqpqu7160add2qn4w3ahyxks', // stylesheet location
-    center: [3.753665,25.279444], // starting position [lng, lat]
+    center: [-33.547704,27.789823], // starting position [lng, lat]
     zoom: 1 // starting zoom
 });
 
@@ -20,11 +20,10 @@ map.on('load', function() {
       'circle-radius': 4,
       'circle-opacity': 0.2,
       'circle-color': 'rgb(124, 218, 255)'
-    }
+      }
     });
-  });
 
-  map.addLayer({
+    map.addLayer({
       id: 'Buffalo Bill',
       type: 'circle',
       source: {
@@ -36,7 +35,7 @@ map.on('load', function() {
       'circle-radius': 4,
       'circle-opacity': 0.2,
       'circle-color': 'rgb(255, 142, 238)'
-    }
+      }
     });
     
     map.addLayer({
@@ -51,5 +50,6 @@ map.on('load', function() {
       'circle-radius': 4,
       'circle-opacity': 0.2,
       'circle-color': 'rgb(244, 235, 66)'
-    }
+      }
     });
+});
