@@ -6,3 +6,20 @@ var map = new mapboxgl.Map({
     center: [7.497612,22.589419], // starting position [lng, lat]
     zoom: 1 // starting zoom
 });
+
+map.on('load', function() {
+    map.addLayer({
+      id: 'Barnum and Bailey',
+      type: 'circle',
+      source: {
+        type: 'vector',
+        url: 'mapbox://danieljstory.cngdjl6u'
+      },
+      'source-layer': 'barnum-master-0jn77a',
+      paint: {
+      'circle-radius': 4,
+      'circle-opacity': 0.2,
+      'circle-color': 'rgb(124, 218, 255)'
+    }
+    });
+}).
