@@ -7,3 +7,5 @@ I am a historian and digital humanist. I serve as a Digital Scholarship Libraria
 I hold a PhD in History from Indiana University, Bloomington, where I also earned a Graduate Certificate in Digital Arts and Humanities.
 
 I currently serve in a consulting role as Podcast Editor for *The American Historical Review*.
+
+Get in touch at [dstory@ucsc.edu](mailto:dstory@ucsc.edu).
