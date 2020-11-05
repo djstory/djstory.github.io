@@ -8,6 +8,6 @@ I am the lead producer of the ten-part documentary podcast [*Stories from the Ep
 
 I currently serve as a consulting editor for *The American Historical Review* and produce the journal's podcast, [*AHR Interview*](https://directory.libsyn.com/shows/view/id/ahrinterview).
 
-I have an ongoing research interest in the American advertising industry's collection and use or consumer data, from the industry's earliest days in the mid-nineetenth century to the rise of the World Wide Web.
+I have an ongoing research interest in the American advertising industry's collection and use of consumer data, from the industry's earliest days in the mid-nineetenth century to the rise of the World Wide Web.
 
 I hold a PhD in History from Indiana University, Bloomington, and an MA in the Social Sciences from the University of Chicago.
